@@ -20,11 +20,9 @@ These are the following data wrangling concepts covered, including in-depth expl
   ♥ Feature Creation
 
 
-Feel free to download both the data file and the Jupyter Notebook! 
+**Feel free to download both the data file and the Jupyter Notebook!** 
 
  ∧,,,∧
- 
 ( • · •)
-
 /    づ♡ 
   
