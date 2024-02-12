@@ -14,10 +14,12 @@ These are the following data wrangling concepts covered, including in-depth expl
   ♥ Categorical Encoding
   
   ♥ Numerical Transformation
+
+  ♥ Variable Discretization
   
   ♥ Scale Normalisation/Standardisation
   
-  ♥ Feature Creation
+  ♥ Feature Creation/Removal
 
 
 ฅ^•ﻌ•^ฅ **Feel free to download both the data file and the Jupyter Notebook!** ฅ^•ﻌ•^ฅ
